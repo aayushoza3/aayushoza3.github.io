@@ -11,7 +11,7 @@ nav_order: 1
 
 Modern AI systems are rarely a single model. A large language model plans, calls tools, reads their outputs, and produces a final decision. Each tool may have been tested carefully on its own, but the system that a person actually interacts with is the composition. My research asks what happens to the guarantees of the parts when they are composed, and how software engineering techniques can make those guarantees explicit and checkable.
 
-I work in the Laboratory for Software Design at Tulane University, advised by [Breno Dantas Cruz](https://brenodan.github.io/) and [Hridesh Rajan](https://hridesh.github.io).
+I work in the Laboratory for Software Design at Tulane University, advised by [Hridesh Rajan](https://hridesh.github.io).
 
 ## Research Interests
 

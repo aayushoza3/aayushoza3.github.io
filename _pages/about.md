@@ -28,7 +28,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a first-year PhD student in Computer Science at [Tulane University](https://tulane.edu), where I work in the Laboratory for Software Design with [Breno Dantas Cruz](https://brenodan.github.io/) and [Hridesh Rajan](https://hridesh.github.io). My research sits at the intersection of software engineering and artificial intelligence.
+I am a first-year PhD student in Computer Science at [Tulane University](https://tulane.edu), where I work in the Laboratory for Software Design with [Hridesh Rajan](https://hridesh.github.io). My research sits at the intersection of software engineering and artificial intelligence.
 
 I study how to build agentic AI systems that people can trust with consequential decisions. In particular, I ask whether a specification that holds for an individual component, such as a fairness requirement on a trained classifier, still holds once a large language model orchestrates that component as a tool. My current work applies ideas from Design by Contract to state and check these specifications in agentic systems. You can read more on my [research page]({{ '/research/' | relative_url }}).
 

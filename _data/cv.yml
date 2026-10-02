@@ -23,7 +23,7 @@ cv:
         end_date: present
         highlights:
           - Laboratory for Software Design.
-          - "Advisors: Breno Dantas Cruz and Hridesh Rajan."
+          - "Advisor: Hridesh Rajan."
           - "Research focus: agentic AI, algorithmic fairness, and Design by Contract for AI systems."
 
       - institution: Arizona State University
