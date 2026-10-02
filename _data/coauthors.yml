@@ -1,0 +1,7 @@
+# Links for coauthor names in the publications list, keyed by lowercase last name.
+"rajan":
+  - firstname: ["Hridesh", "H."]
+    url: https://hridesh.github.io
+"cruz":
+  - firstname: ["Breno Dantas", "Breno", "B. D.", "B."]
+    url: https://brenodan.github.io/

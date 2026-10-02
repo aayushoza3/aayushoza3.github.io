@@ -1,0 +1,7 @@
+# Venue abbreviations shown as badges in the publications list.
+"FSE":
+  url: https://conf.researchr.org/series/fse
+  color: "#1f3a5f"
+"ICSE":
+  url: https://conf.researchr.org/series/icse
+  color: "#1f3a5f"

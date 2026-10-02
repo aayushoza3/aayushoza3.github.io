@@ -1,0 +1,77 @@
+cv:
+  name: Aayush Oza
+  label: PhD Student in Computer Science
+  email: aoza@tulane.edu
+  location: New Orleans, LA
+  image: ""
+  summary: PhD student at Tulane University working on software engineering for trustworthy and fair agentic AI systems.
+
+  social_networks:
+    - network: GitHub
+      username: aayushoza3
+    - network: LinkedIn
+      username: aayush-oza-a63b58235
+
+  sections:
+    Education:
+      - institution: Tulane University
+        location: New Orleans, LA
+        url: https://tulane.edu
+        area: Computer Science
+        studyType: PhD
+        start_date: 2026-08
+        end_date: present
+        highlights:
+          - Laboratory for Software Design.
+          - "Advisors: Breno Dantas Cruz and Hridesh Rajan."
+          - "Research focus: agentic AI, algorithmic fairness, and Design by Contract for AI systems."
+
+      - institution: Arizona State University
+        location: Tempe, AZ
+        url: https://www.asu.edu
+        area: Computer Science
+        studyType: BS
+        date: 2026
+
+    Experience:
+      - company: One World Quest
+        position: Software Engineer Intern (May to Aug 2025)
+        date: 2025
+        highlights:
+          - Developed a learning platform on AWS using Next.js, TypeScript, and Node.js.
+          - Integrated real-time synchronization with the Google Classroom API.
+
+      - company: Amaranth Tech
+        position: Software Engineer Intern (Jan to May 2025)
+        date: 2025
+        highlights:
+          - Built LLM workflow automation and prompt optimization tooling with Python and FastAPI.
+          - Redesigned the React dashboard used to manage LLM workflows.
+
+      - company: VR Lab, Arizona State University
+        position: Software Engineer Intern (Sep to Dec 2024)
+        location: Tempe, AZ
+        date: 2024
+        highlights:
+          - Developed Unity virtual reality applications for medical training simulations.
+          - Built .NET backend services for data collection and analytics.
+
+      - company: Camus Pharma
+        position: Software Engineer Intern (May to Aug 2024)
+        date: 2024
+        highlights:
+          - Implemented batch processing and monitoring systems for pharmaceutical data in Java and C++.
+
+    Skills:
+      - name: Research
+        icon: fa-solid fa-flask
+        keywords: "Fairness evaluation, LLM agents and tool use, Model Context Protocol, replication studies"
+      - name: Languages
+        icon: fa-solid fa-code
+        keywords: "Python, TypeScript, JavaScript, Java, C++, C#, SQL"
+      - name: Machine Learning
+        icon: fa-solid fa-brain
+        keywords: "PyTorch, scikit-learn, XGBoost, ensemble methods"
+      - name: Systems
+        icon: fa-solid fa-server
+        keywords: "FastAPI, Node.js, PostgreSQL, Redis, Docker, AWS, GitHub Actions"
